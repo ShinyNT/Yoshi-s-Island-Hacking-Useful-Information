@@ -2,3 +2,4 @@
 smw sux
 
 testing github LUL
+(only wiki)
